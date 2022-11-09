@@ -1,2 +1,2 @@
 ## SOME TITLE
-and some text 222
+how to use this readme (the merge exercise)
