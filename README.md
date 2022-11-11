@@ -7,3 +7,5 @@ another from master**
 
 ##Another title
 some text of the new title2
+
+edit readme for the stash exercise
